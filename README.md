@@ -18,3 +18,5 @@ input.csv(not in this repo due to file size): 10,000,000 records of email addres
 domain-date generator.ipynb: generator for the 'input.csv' file.
 
 main.py(Python integrated with SQLite3): updates another table with daily counts for each domain. Report the top 50 domains based on the percentage of increase during the past 30 days compared with total.
+
+report.csv: report generated with info of Top 50 domain names and percentage.
