@@ -1,6 +1,5 @@
 '''
 @author: Yumeng Sun
-This script is for a programming test from Index Exchange.
 
 '''
 import sqlite3
